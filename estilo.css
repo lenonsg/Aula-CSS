@@ -1,0 +1,19 @@
+h1 {
+    font-family: Arial;
+}
+.cordabarra {
+  background-color: #708090
+}
+.merri {
+  font-family: "Merrieweather", serif;
+          font-size: 48px;
+        }
+rhtml {
+    position: relative;
+    min-height: 100%;
+}
+
+rbody {
+    margin: 0 0 100px; /* bottom = footer height */
+    padding: 0px;
+}
